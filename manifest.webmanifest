@@ -1,0 +1,29 @@
+{
+    "name": "webapptest101",
+    "short_name": "Web App Test",
+    "icons": [
+      {
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "background_color": "black",
+    "categories": ["Testing"],
+    "screenshots" : [
+        {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
+            "sizes": "1280x889",
+            "type": "image/jpeg",
+            "platform": "wide",
+            "label": "webapptest101 desc"
+        }
+    ],
+    "display": "standalone",
+    "start_url": "/webapptest101"
+}
