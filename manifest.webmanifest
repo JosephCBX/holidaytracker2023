@@ -1,6 +1,6 @@
 {
     "name": "webapptest101",
-    "short_name": "Web App Test",
+    "short_name": "Holiday Tracker",
     "icons": [
       {
         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
@@ -14,16 +14,16 @@
       }
     ],
     "background_color": "black",
-    "categories": ["Testing"],
+    "categories": ["Holidays, Dates, Important Dates"],
     "screenshots" : [
         {
             "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
             "sizes": "1280x889",
             "type": "image/jpeg",
             "platform": "wide",
-            "label": "webapptest101 desc"
+            "label": "Holiday Tracker 2023"
         }
     ],
     "display": "standalone",
-    "start_url": "/webapptest101"
+    "start_url": "/holidaytracker2023"
 }
