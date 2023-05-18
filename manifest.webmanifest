@@ -1,14 +1,14 @@
 {
-    "name": "webapptest101",
+    "name": "Holiday Tracker",
     "short_name": "Holiday Tracker",
     "icons": [
       {
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
+        "src": "/icon.png",
         "sizes": "256x256",
         "type": "image/png"
       },
       {
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
+        "src": "/icon.png",
         "sizes": "512x512",
         "type": "image/png"
       }
@@ -17,7 +17,7 @@
     "categories": ["Holidays, Dates, Important Dates"],
     "screenshots" : [
         {
-            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfu1mi6LAfuv1HSVFYUtOVgBsIB5f96Ui_Xw&usqp=CAU",
+            "src": "/icon.png",
             "sizes": "1280x889",
             "type": "image/jpeg",
             "platform": "wide",
